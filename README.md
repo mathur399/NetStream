@@ -1,6 +1,6 @@
-# NetflixClone
+# NetStream
 
-Clone of the Netflix website as a light HTML CSS and JS excercise.
+Clone of the NetStream website as a light HTML CSS and JS excercise.
 
 
 _<p align="center">" website for fun."</p>_
@@ -74,7 +74,7 @@ tab content for each selector -->
 
 ## Features in Development
 
-I might add the other pages on the Netflix website if I ever come back to refactor ^-^
+I might add the other pages on the NetStream website if I ever come back to refactor ^-^
 
 
 
